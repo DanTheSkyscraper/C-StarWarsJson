@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cEUVO53E6wCzdLHS+om3nJH61+bd/VEdvpc7ClZgSnNvdTtjAblvuxLKPq/TN1opEtRDF5kxeURvUFO4+d50qg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\daniel.taherkhanian\\Documents\\C#StarWarsJson\\StarWarsJson\\StarWarsJson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\daniel.taherkhanian\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\daniel.taherkhanian\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\daniel.taherkhanian\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
