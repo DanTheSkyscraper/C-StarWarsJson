@@ -6,10 +6,13 @@ public class Character
     public string Name {get; set;}
 
     [JsonPropertyName("height")]
-    public string Id {get; set;}
+    public string Height {get; set;}
 
     [JsonPropertyName("mass")]
     public string Mass {get; set;}
+
+    [JsonPropertyName("species")]
+    public string Species {get; set;}
 
     [JsonPropertyName("homeworld")]
     public string Homeworld {get; set;}

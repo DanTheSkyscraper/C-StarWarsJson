@@ -1,0 +1,17 @@
+c:\Users\daniel.taherkhanian\Documents\C#StarWarsJson\StarWarsJson\bin\Debug\net7.0\StarWarsJson.exe
+c:\Users\daniel.taherkhanian\Documents\C#StarWarsJson\StarWarsJson\bin\Debug\net7.0\StarWarsJson.deps.json
+c:\Users\daniel.taherkhanian\Documents\C#StarWarsJson\StarWarsJson\bin\Debug\net7.0\StarWarsJson.runtimeconfig.json
+c:\Users\daniel.taherkhanian\Documents\C#StarWarsJson\StarWarsJson\bin\Debug\net7.0\StarWarsJson.dll
+c:\Users\daniel.taherkhanian\Documents\C#StarWarsJson\StarWarsJson\bin\Debug\net7.0\StarWarsJson.pdb
+c:\Users\daniel.taherkhanian\Documents\C#StarWarsJson\StarWarsJson\bin\Debug\net7.0\RestSharp.dll
+c:\Users\daniel.taherkhanian\Documents\C#StarWarsJson\StarWarsJson\obj\Debug\net7.0\StarWarsJson.csproj.AssemblyReference.cache
+c:\Users\daniel.taherkhanian\Documents\C#StarWarsJson\StarWarsJson\obj\Debug\net7.0\StarWarsJson.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\daniel.taherkhanian\Documents\C#StarWarsJson\StarWarsJson\obj\Debug\net7.0\StarWarsJson.AssemblyInfoInputs.cache
+c:\Users\daniel.taherkhanian\Documents\C#StarWarsJson\StarWarsJson\obj\Debug\net7.0\StarWarsJson.AssemblyInfo.cs
+c:\Users\daniel.taherkhanian\Documents\C#StarWarsJson\StarWarsJson\obj\Debug\net7.0\StarWarsJson.csproj.CoreCompileInputs.cache
+c:\Users\daniel.taherkhanian\Documents\C#StarWarsJson\StarWarsJson\obj\Debug\net7.0\StarWarsJson.csproj.CopyComplete
+c:\Users\daniel.taherkhanian\Documents\C#StarWarsJson\StarWarsJson\obj\Debug\net7.0\StarWarsJson.dll
+c:\Users\daniel.taherkhanian\Documents\C#StarWarsJson\StarWarsJson\obj\Debug\net7.0\refint\StarWarsJson.dll
+c:\Users\daniel.taherkhanian\Documents\C#StarWarsJson\StarWarsJson\obj\Debug\net7.0\StarWarsJson.pdb
+c:\Users\daniel.taherkhanian\Documents\C#StarWarsJson\StarWarsJson\obj\Debug\net7.0\StarWarsJson.genruntimeconfig.cache
+c:\Users\daniel.taherkhanian\Documents\C#StarWarsJson\StarWarsJson\obj\Debug\net7.0\ref\StarWarsJson.dll
